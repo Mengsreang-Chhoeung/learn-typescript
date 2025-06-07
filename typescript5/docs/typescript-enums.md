@@ -81,4 +81,4 @@ console.log(CardinalDirections.West);
 
 ---
 
-<a href="./typescript-object-types.md">◀ Previous</a>&nbsp;&nbsp;<a href="./typescript-special-types.md">Next ▶</a>
+<a href="./typescript-object-types.md">◀ Previous</a>&nbsp;&nbsp;<a href="./typescript-aliases-interfaces.md">Next ▶</a>

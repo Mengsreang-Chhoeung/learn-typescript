@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.typescriptlang.org" target="blank"><img style="border-radius: 10px;" src="./doc-images/typescript-logo.png" width="80" alt="TypeScript Logo" /></a>
+  <a href="https://www.typescriptlang.org" target="blank"><img style="border-radius: 10px;" src="./assets/typescript-logo.png" width="80" alt="TypeScript Logo" /></a>
 </p>
 
 <h1 align="center">Learn TypeScript</h1>
